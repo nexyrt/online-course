@@ -1,0 +1,25 @@
+GET http://localhost:5000/course
+
+###
+POST http://localhost:5000/course
+Content-Type: application/json
+
+{
+    "course_name": "Anjay",
+    "course_description": "Mabar",
+    "course_jp": 45
+}
+
+###
+PATCH http://localhost:5000/course/1
+Content-Type: application/json
+
+{
+
+    "course_name": "React Js",
+    "course_description": "API",
+    "course_jp": 50
+}
+
+###
+DELETE  http://localhost:5000/course/3
