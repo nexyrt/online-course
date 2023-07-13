@@ -9,7 +9,7 @@ Pada projek ini, alur web dibagi menjadi 2 yaitu *Clients* (Front-End) dan *Serv
 
 - React.js: Penerapan *component based* memudahkan saya dalam mengatur *code*
 - Vite: Kecepatan Build dan HMR (Hot Module Replacement) yang menghasilkan waktu pengembangan yang lebih cepat.
-- Axios: Dengan API ini saya dapat menghubungkan permintaan GET, POST, PATCH & DELETE dari *Clients* ke *Server* dengan mudah
+- Axios: Dengan library ini saya dapat menghubungkan API yang saya buat melalui permintaan GET, POST, PATCH & DELETE dari *Clients* ke *Server* dengan mudah
 - react-router-dom: Memudahkan dalam melakukan routing di
 
 #### Back-End
