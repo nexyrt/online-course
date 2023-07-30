@@ -6,18 +6,18 @@ const Home = () => {
     const cards = [
         {
             title: 'JavaScript Course',
-            desc: 'Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.',
+            desc: 'Learn the basic of Node.js',
             link: 'https://i.imgur.com/xItw4Lj.jpg'
         },
         {
             title: 'Python Course',
-            desc: 'Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.',
-            link: 'https://i.imgur.com/xItw4Lj.jpg'
+            desc: 'Machine Learning',
+            link: 'https://i.imgur.com/IvqGJNx.jpg'
         },
         {
             title: 'Web Programming Course',
-            desc: 'Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.',
-            link: 'https://i.imgur.com/xItw4Lj.jpg'
+            desc: 'Comprehensif material of HTML & CSS',
+            link: 'https://i.imgur.com/7AgDgId.jpg'
         },
         {
             title: 'MySQL Course',
